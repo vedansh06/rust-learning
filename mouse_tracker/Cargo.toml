@@ -1,0 +1,9 @@
+[package]
+name = "mouse_tracker"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.33.3"
+rdev = "0.5.3"
+tray-icon = "0.21.2"
